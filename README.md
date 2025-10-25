@@ -4,6 +4,12 @@
 <img width="552" height="719" alt="image" src="https://github.com/user-attachments/assets/b79b1e34-80cd-45c0-9dbd-91103f5fd810" />
 
 
+
+
+https://github.com/user-attachments/assets/e9708c0d-0e0c-42b2-af64-dabcb037b2a6
+
+
+
 # 🎵 Phone Ring by SelfCode  
 
 **Phone Ring** — это простое и удобное приложение для создания 🎧 **рингтонов для iPhone**.  
